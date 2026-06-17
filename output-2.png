@@ -1,0 +1,15 @@
+Top Student:
+ Name        Rahul
+Maths         95
+Science       92
+English       90
+Average     92.33
+Name: 2, dtype: object
+
+Subject-wise Average:
+ Maths      78.50
+Science    82.00
+English    75.25
+dtype: float64
+
+Charts saved successfully!
